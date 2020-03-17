@@ -1,1 +1,2 @@
-I did challenge 2, draw my map based on a gird.
+#javac *.java
+#java Runner
